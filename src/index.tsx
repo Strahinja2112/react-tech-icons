@@ -8,3 +8,5 @@ export * from './icons/React';
 export * from './icons/Supabase';
 export * from './icons/Tailwind';
 export * from './icons/TS';
+
+export * from './types';

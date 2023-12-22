@@ -1,11 +1,12 @@
 import React from 'react';
+import { IconProps } from '../types';
 
-export function Tailwind() {
+export function Tailwind({ height, width }: IconProps) {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      height="30"
-      width="30"
+      height={height || '30'}
+      width={width || '30'}
       viewBox="0 0 128 128"
     >
       <path
