@@ -61,6 +61,7 @@ export default function YourComponent() {
 
 # ChangeLog
 
+- **v1.3.1** Added **22** more!
 - **v1.2.1** Added **26** more icons!
 - **v1.1.2** Added types and icon customization
 - **v1.1.1** Added **10** new icons
