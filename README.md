@@ -8,13 +8,33 @@
 - From programming languages to software tools, discover an extensive library that empowers you to visually communicate complex tech concepts with ease.
 - Embrace creativity and enhance your UI/UX design effortlessly with React Tech Icons!
 
-## Instalation
+## Install package
+
+### Lastest
 
 ```bash
-npm install react-tech-icons
+# npm
+npm install react-tech-icons@latest
+
+# yarn
+yarn add react-tech-icons@latest
+
+# pnpm
+pnpm add react-tech-icons@latest
 ```
 
-## Usage
+## Default Icon Usage
+
+```typescript
+import React from 'react';
+import { C } from 'react-tech-icons';
+
+export default function YourComponent() {
+  return <C />;
+}
+```
+
+## Change The Icon Size
 
 ```typescript
 import React from 'react';
@@ -28,5 +48,12 @@ export default function YourComponent() {
   );
 }
 ```
+
+# ChangeLog
+
+- v1.1.3 Added X more icons
+- v1.1.2 Added types and icon customization
+- v1.1.1 Added 10 new icons
+- v1.0.0 Initial launch of react-tech-icons
 
 ### This is my first npm package so if you enjoy it please leave a review!
