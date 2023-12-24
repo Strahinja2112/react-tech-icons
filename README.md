@@ -61,17 +61,17 @@ export default function YourComponent() {
 
 # ChangeLog
 
-- v1.1.3 Added 26 more icons!
-- v1.1.2 Added types and icon customization
-- v1.1.1 Added 10 new icons
-- v1.0.0 Initial launch of react-tech-icons
+- **v1.2.1** Added **26** more icons!
+- **v1.1.2** Added types and icon customization
+- **v1.1.1** Added **10** new icons
+- **v1.0.0** Initial launch of react-tech-icons
 
 # Author
 
-- Email: pavicevicstrahinja99@gmail.com
-- Github: [Strahinja2112](https://github.com/Strahinja2112)
-- Personal Website: [Take a look](https://portfolio-strahinja2112.vercel.app)
+- **Email**: pavicevicstrahinja99@gmail.com
+- **Github**: [Strahinja2112](https://github.com/Strahinja2112)
+- **Personal Website**: [Take a look](https://portfolio-strahinja2112.vercel.app)
 
 Note: All brand icons are trademarks of their respective owners. The use of these trademarks does not indicate endorsement of the trademark holder by the author, nor vice versa.
 
-### This is my first npm package so if you enjoy it please leave a review!
+### This is my first npm package so if you enjoy it or have anything to say please let me know here [strahinja2112@gmail.com!](https://strahinja2112@gmail.com)
