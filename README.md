@@ -61,6 +61,7 @@ export default function YourComponent() {
 
 # ChangeLog
 
+- **v1.5.0** Added **23** more!
 - **v1.4.2** Fixed broken repo link!
 - **v1.4.1** Added default size that will be modifiable soon, and fixed some markup errors!
 - **v1.3.1** Added **22** more!
