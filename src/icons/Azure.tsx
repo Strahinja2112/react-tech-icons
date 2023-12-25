@@ -1,12 +1,13 @@
 import React from 'react';
 import { IconProps } from '../types';
+import { defaultSize } from '../constants';
 
 export function AzureWithWords({ height, width }: IconProps) {
   return (
     <svg
       viewBox="0 0 128 128"
-      height={height || '30'}
-      width={width || '30'}
+      height={height || defaultSize}
+      width={width || defaultSize}
       xmlns="http://www.w3.org/2000/svg"
     >
       <defs>
@@ -18,8 +19,8 @@ export function AzureWithWords({ height, width }: IconProps) {
           y2="134.423"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#114A8B" />
-          <stop offset="1" stop-color="#0669BC" />
+          <stop stopColor="#114A8B" />
+          <stop offset="1" stopColor="#0669BC" />
         </linearGradient>
         <linearGradient
           id="azure-original-wordmark-b"
@@ -29,11 +30,11 @@ export function AzureWithWords({ height, width }: IconProps) {
           y2="71.077"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-opacity=".3" />
-          <stop offset=".071" stop-opacity=".2" />
-          <stop offset=".321" stop-opacity=".1" />
-          <stop offset=".623" stop-opacity=".05" />
-          <stop offset="1" stop-opacity="0" />
+          <stop stopOpacity=".3" />
+          <stop offset=".071" stopOpacity=".2" />
+          <stop offset=".321" stopOpacity=".1" />
+          <stop offset=".623" stopOpacity=".05" />
+          <stop offset="1" stopOpacity="0" />
         </linearGradient>
         <linearGradient
           id="azure-original-wordmark-c"
@@ -43,8 +44,8 @@ export function AzureWithWords({ height, width }: IconProps) {
           y2="129.525"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#3CCBF4" />
-          <stop offset="1" stop-color="#2892DF" />
+          <stop stopColor="#3CCBF4" />
+          <stop offset="1" stopColor="#2892DF" />
         </linearGradient>
       </defs>
       <path
@@ -77,8 +78,8 @@ export function Azure({ height, width }: IconProps) {
   return (
     <svg
       viewBox="0 0 128 128"
-      height={height || '30'}
-      width={width || '30'}
+      height={height || defaultSize}
+      width={width || defaultSize}
       xmlns="http://www.w3.org/2000/svg"
     >
       <defs>
@@ -90,8 +91,8 @@ export function Azure({ height, width }: IconProps) {
           y2="134.423"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#114A8B" />
-          <stop offset="1" stop-color="#0669BC" />
+          <stop stopColor="#114A8B" />
+          <stop offset="1" stopColor="#0669BC" />
         </linearGradient>
         <linearGradient
           id="azure-original-b"
@@ -101,11 +102,11 @@ export function Azure({ height, width }: IconProps) {
           y2="71.076"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-opacity=".3" />
-          <stop offset=".071" stop-opacity=".2" />
-          <stop offset=".321" stop-opacity=".1" />
-          <stop offset=".623" stop-opacity=".05" />
-          <stop offset="1" stop-opacity="0" />
+          <stop stopOpacity=".3" />
+          <stop offset=".071" stopOpacity=".2" />
+          <stop offset=".321" stopOpacity=".1" />
+          <stop offset=".623" stopOpacity=".05" />
+          <stop offset="1" stopOpacity="0" />
         </linearGradient>
         <linearGradient
           id="azure-original-c"
@@ -115,8 +116,8 @@ export function Azure({ height, width }: IconProps) {
           y2="129.525"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#3CCBF4" />
-          <stop offset="1" stop-color="#2892DF" />
+          <stop stopColor="#3CCBF4" />
+          <stop offset="1" stopColor="#2892DF" />
         </linearGradient>
       </defs>
       <path

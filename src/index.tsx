@@ -35,4 +35,4 @@ export * from './icons/Bower';
 export * from './icons/Canva';
 export * from './icons/Chrome';
 
-export * from './types';
+// export * from './types';

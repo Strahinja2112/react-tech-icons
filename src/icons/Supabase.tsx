@@ -1,12 +1,13 @@
 import React from 'react';
 import { IconProps } from '../types';
+import { smallerDefaultSize } from '../constants';
 
 export function Supabase({ height, width }: IconProps) {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      height={height || '28'}
-      width={width || '28'}
+      height={height || smallerDefaultSize}
+      width={width || smallerDefaultSize}
       viewBox="0 0 128 128"
     >
       <path
