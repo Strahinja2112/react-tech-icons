@@ -19,7 +19,7 @@ function App() {
             border: '1px solid rgb(255,255,255,0.2)',
           }}
         >
-          <El />
+          <El width={120} height={120} />
         </div>
       ))}
     </div>

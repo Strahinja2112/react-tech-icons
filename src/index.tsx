@@ -43,5 +43,7 @@ export * from './icons/CodePen';
 export * from './icons/CoffeeScript';
 export * from './icons/CouchDB';
 export * from './icons/CPP';
+export * from './icons/PlayStore';
+export * from './icons/AppGallery';
 
 export * from './types';

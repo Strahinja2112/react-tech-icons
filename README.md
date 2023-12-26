@@ -27,8 +27,8 @@ pnpm add react-tech-icons@latest
 
 ### adding a color to a icon has to be done in one of these formats:
 
-- rgb(r, b, v)
-- rgb(r, b, v, a)
+- rgb(r, g, b)
+- rgb(r, g, b, a)
 - hsl(h, s%, l%)
 - #nnn
 - #nnnnnn
@@ -61,6 +61,7 @@ export default function YourComponent() {
 
 # ChangeLog
 
+- **v1.5.1** Fixed icon default size!
 - **v1.5.0** Added **23** more!
 - **v1.4.2** Fixed broken repo link!
 - **v1.4.1** Added default size that will be modifiable soon, and fixed some markup errors!
