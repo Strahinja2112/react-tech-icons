@@ -61,6 +61,7 @@ export default function YourComponent() {
 
 # ChangeLog
 
+- **v1.6.0** Added **16** more icons!
 - **v1.5.1** Fixed icon default size!
 - **v1.5.0** Added **23** more!
 - **v1.4.2** Fixed broken repo link!
