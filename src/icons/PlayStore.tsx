@@ -20,12 +20,12 @@ export function PlayStore({ height, width }: IconProps) {
           x1="14.09"
           id="linear-gradient"
         >
-          <stop id="stop4" stop-color="#008eff" offset="0" />
-          <stop id="stop6" stop-color="#008fff" offset=".01" />
-          <stop id="stop8" stop-color="#00acff" offset=".26" />
-          <stop id="stop10" stop-color="#00c0ff" offset=".51" />
-          <stop id="stop12" stop-color="#00cdff" offset=".76" />
-          <stop id="stop14" stop-color="#00d1ff" offset="1" />
+          <stop id="stop4" stopColor="#008eff" offset="0" />
+          <stop id="stop6" stopColor="#008fff" offset=".01" />
+          <stop id="stop8" stopColor="#00acff" offset=".26" />
+          <stop id="stop10" stopColor="#00c0ff" offset=".51" />
+          <stop id="stop12" stopColor="#00cdff" offset=".76" />
+          <stop id="stop14" stopColor="#00d1ff" offset="1" />
         </linearGradient>
         <linearGradient
           gradientUnits="userSpaceOnUse"
@@ -35,8 +35,8 @@ export function PlayStore({ height, width }: IconProps) {
           x1="26.45"
           id="linear-gradient-2"
         >
-          <stop id="stop17" stop-color="#ffd800" offset="0" />
-          <stop id="stop19" stop-color="#ff8a00" offset="1" />
+          <stop id="stop17" stopColor="#ffd800" offset="0" />
+          <stop id="stop19" stopColor="#ff8a00" offset="1" />
         </linearGradient>
         <linearGradient
           gradientUnits="userSpaceOnUse"
@@ -46,8 +46,8 @@ export function PlayStore({ height, width }: IconProps) {
           x1="17.69"
           id="linear-gradient-3"
         >
-          <stop id="stop22" stop-color="#ff3a44" offset="0" />
-          <stop id="stop24" stop-color="#b11162" offset="1" />
+          <stop id="stop22" stopColor="#ff3a44" offset="0" />
+          <stop id="stop24" stopColor="#b11162" offset="1" />
         </linearGradient>
         <linearGradient
           gradientUnits="userSpaceOnUse"
@@ -57,11 +57,11 @@ export function PlayStore({ height, width }: IconProps) {
           x1="-3.19"
           id="linear-gradient-4"
         >
-          <stop id="stop27" stop-color="#328e71" offset="0" />
-          <stop id="stop29" stop-color="#2d9571" offset=".07" />
-          <stop id="stop31" stop-color="#15bd74" offset=".48" />
-          <stop id="stop33" stop-color="#06d575" offset=".8" />
-          <stop id="stop35" stop-color="#00de76" offset="1" />
+          <stop id="stop27" stopColor="#328e71" offset="0" />
+          <stop id="stop29" stopColor="#2d9571" offset=".07" />
+          <stop id="stop31" stopColor="#15bd74" offset=".48" />
+          <stop id="stop33" stopColor="#06d575" offset=".8" />
+          <stop id="stop35" stopColor="#00de76" offset="1" />
         </linearGradient>
       </defs>
       <g transform="translate(.004)" id="g58">

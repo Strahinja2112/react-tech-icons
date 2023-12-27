@@ -43,6 +43,11 @@ export * from './icons/CodePen';
 export * from './icons/CoffeeScript';
 export * from './icons/CouchDB';
 export * from './icons/CPP';
+export * from './icons/Cucumber';
+export * from './icons/D3JS';
+export * from './icons/Dart';
+export * from './icons/Debian';
+export * from './icons/DenoJS';
 export * from './icons/PlayStore';
 export * from './icons/AppGallery';
 
