@@ -61,6 +61,7 @@ export default function YourComponent() {
 
 # ChangeLog
 
+- **v1.6.1** Reduced package size!
 - **v1.6.0** Added **16** more icons!
 - **v1.5.1** Fixed icon default size!
 - **v1.5.0** Added **23** more!
@@ -74,10 +75,10 @@ export default function YourComponent() {
 
 # Author
 
-- **Email**: pavicevicstrahinja99@gmail.com
+- **Email**: [pavicevicstrahinja99@gmail.com](mailto:pavicevicstrahinja99@gmail.com)
 - **Github**: [Strahinja2112](https://github.com/Strahinja2112)
 - **Personal Website**: [Take a look](https://portfolio-strahinja2112.vercel.app)
 
 Note: All brand icons are trademarks of their respective owners. The use of these trademarks does not indicate endorsement of the trademark holder by the author, nor vice versa.
 
-### This is my first npm package so if you enjoy it or have anything to say please let me know here [strahinja2112@gmail.com!](https://strahinja2112@gmail.com)
+### This is my first npm package so if you enjoy it or have anything to say please let me know here [pavicevicstrahinja99@gmail.com!](mailto:pavicevicstrahinja99@gmail.com)
